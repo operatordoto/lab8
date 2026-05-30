@@ -29,5 +29,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: operatordoto/lab8:latest
+          tags: foxes22/lab8:latest
 
